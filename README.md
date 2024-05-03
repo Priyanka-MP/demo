@@ -1,7 +1,7 @@
 # demo
  OnlineBookManagement
 This is Online Book Store Management system.
-The Goal of the system is to :
+
 ### Goals:
 
 1. **Provide a Convenient Online Shopping Experience:** Enable users to browse through a catalog of books, search for specific titles or authors, view book details, and make purchases online.
